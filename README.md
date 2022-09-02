@@ -19,4 +19,3 @@ In my first year at Hopkins, a focused most of my stats training on Stata and ha
 
 This is a really interesting article about Lake Titicaca, which is where I'm living right now: https://www.bbc.com/travel/article/20220814-the-floating-homes-of-lake-titicaca 
 
-![](https://www.youtube.com/shorts/clLjF1Rjz6s)
